@@ -1,0 +1,20 @@
+{
+  "users": {
+    "0747191058": {
+      "sudoList": [
+        "0747191058@s.whatsapp.net",
+        "0747191058 @s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/DigiX.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "âš¡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
